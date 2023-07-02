@@ -1,0 +1,100 @@
+.nav{
+text-align: center;
+font-size: 25px;
+
+}
+.Main{
+    border: 2px double rgb(90, 79, 81);
+    background-color: rgb(226, 205, 179);
+    /* margin-top: 5%; */
+    margin-left: 15%;
+    border-radius: 2%;
+    height: 400px;
+    width: 70%;
+  
+}
+.title{
+    color: rgb(42, 97, 179);
+    text-align: center;
+}
+.Inp{
+    border: 2px solid #731414;
+    border-radius: 4px;
+    height: 30px;
+    width: 290px;
+    margin-left: 345px;
+    }
+.Content{
+    color: rgb(42, 97, 179);
+    text-align: center;
+}
+.Inp1{
+    height: 30px;
+    width: 290px;
+    margin-left: 345px;
+    border: 2px solid #731414;
+    border-radius: 4px;
+}
+.bt1{
+    
+    background-color:darkslategray;
+    font-size: 15px;
+    color: rgb(234, 230, 230);
+    height: 30px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 470px;
+}
+.Blogs{
+    color: rgb(0, 255, 255);
+    height: 30px;
+    width: 290px;
+    margin-left: 47%;
+}
+.blg{
+/* margin-left: 20%;
+    border-radius: 2%;
+    height: 110px;
+    width: 50%;
+    border: 1px double rgb(90, 79, 81);
+    background-color: rgb(136, 84, 110);
+    display:block;
+    margin: 30px; */
+    max-width: 60%;
+    background-color: rgb(192, 237, 236);
+    color: black;
+    font-weight: lighter;
+    border: 1px black solid;
+    margin:auto;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:block;
+    padding-left: 10px;
+    max-width: 60%;
+}
+.blog_t{
+margin-top: 20px;
+    font-size: 20px;
+    display: inline;
+    margin-left: 50px;
+   font-size: 30px;
+    /* height: 30px;
+    width: 30px; */
+  
+   
+   
+}
+.content{
+   
+    margin-top: 20px;
+    font-size: 15px;
+  
+    margin-left: 50px;
+   font-size: 30px;
+}
+.Del{
+    margin-left: 80%;
+margin-bottom: 5px;
+    
+}
